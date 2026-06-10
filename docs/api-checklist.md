@@ -23,12 +23,18 @@ Required action:
 Add these to Vercel environment variables:
 
 ```env
-NEXT_PUBLIC_SUPABASE_URL=
+NEXT_PUBLIC_SUPABASE_URL=https://hvghhwnssvngoeqnzusw.supabase.co
 NEXT_PUBLIC_SUPABASE_ANON_KEY=
 SUPABASE_SERVICE_ROLE_KEY=
 ```
 
 Use the service role key only on the server.
+
+Status:
+
+- Project URL confirmed
+- Publishable key received, not committed
+- Secret key received, not committed
 
 ### Vercel
 
